@@ -1,5 +1,5 @@
 # Informed Search
-**Kelas Paralel 2** 
+**Kelas Paralel 2** <br>
 **Kelompok 3**
 ## Anggota Kelompok
 1. Sandy Reynaldo Yanuarda Haulussy (G6401201026) 
