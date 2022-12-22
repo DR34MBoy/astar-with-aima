@@ -1,6 +1,6 @@
 # Informed Search
-## Kelas Paralel 2
-## Kelompok 3
+**Kelas Paralel 2** 
+**Kelompok 3**
 ## Anggota Kelompok
 1. Sandy Reynaldo Yanuarda Haulussy (G6401201026) 
 2. Fakhri Givran Hafizh (G6401201047)
