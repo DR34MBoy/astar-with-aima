@@ -7,4 +7,4 @@
 3. Fawwaz Hafiz Salsabila (G6401201063) 
 4. Daffa Rifqi Kanz (G6401201094)
 ## Kode Program
-Silakan jalankan program P2_3_astar.py
+Silakan jalankan program **P2_3_astar.py**
